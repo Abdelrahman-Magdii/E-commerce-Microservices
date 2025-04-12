@@ -165,6 +165,3 @@ e-commerce has been a fantastic learning experience, helping me deepen my expert
 - Distributed systems and asynchronous communication with Kafka.
 - Observability and monitoring with Zipkin.
 - Containerization and deployment with Docker.
-
-## 📬 Contact
-For any questions or feedback, feel free to reach out at [amrelsebay3@gmail.com](mailto:amrelsebay3@gmail.com).
